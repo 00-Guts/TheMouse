@@ -79,7 +79,7 @@
 /*Main Content Styling*/
 main{
     width: 100%;
-    background-color: rgb(5,10,24);
+    background-color:  rgb(15, 18, 44);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
